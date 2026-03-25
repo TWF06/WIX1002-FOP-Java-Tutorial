@@ -6,5 +6,5 @@ This repository contains Java exercises for WIX1002 – Fundamentals of Programm
 
 The exercises follow the official lab progression, covering topics such as Java basics, control flow, arrays, methods, and file handling.
 
-👥 Contributors
+👥 Contributors\
 Tan Wei Feng (TWF06)
